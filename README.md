@@ -1,2 +1,2 @@
-# CodSoft-NumberGuessingGame
-this task is about guessing numbers game
+# CodSoft-Internship-Tasks
+This repository is about Java programming tasks
